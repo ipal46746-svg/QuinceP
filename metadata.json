@@ -1,0 +1,8 @@
+{
+  "name": "潜意识镜像 OH Cards",
+  "description": "A digital OH Card psychological projection tool. Draw random image and word cards, tell your story, and receive AI-guided psychological interpretation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
